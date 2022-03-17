@@ -57,4 +57,4 @@ strong technical skills to the working environment.
   <br/>
 
   ## 🖋⌨Most Used Languages in Github...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selva658&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-user&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-user&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-user&layout=compact)
