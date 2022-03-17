@@ -41,14 +41,6 @@ strong technical skills to the working environment.
 <br/>
 
 
-## 🤖👾 My Projects...
-
-<p dir="auto">
-<a href="https://selva658.github.io/Pantaloons/"><img src="https://pantaloons.imgix.net/img/app/brands/pantaloons/v2/PT_D_logo.png" alt="pantaloons" style="width: 18%; height: 45px;"></a>&nbsp;&nbsp;<br>
-<a href="https://selva658.github.io/Lybrate_Clone_Project/"><img src="https://assets.lybrate.com/q_auto,f_auto//imgs/product/logos/Lybrate-Logo.png" alt="Fabindia" style="width: 17%; height: 45px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<br/>
-
 ## 📧📫 Find me at...
 
 <p dir="auto">
