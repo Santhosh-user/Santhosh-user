@@ -53,7 +53,7 @@ strong technical skills to the working environment.
  
   ## 📉📊 GitHub Stats...
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=selva658)](https://github-readme-stats.vercel.app/api?Santhosh-user)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=santhosh-user)](https://github-readme-stats.vercel.app/api?Santhosh-user)
   <br/>
 
   ## 🖋⌨Most Used Languages in Github...
