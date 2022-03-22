@@ -11,7 +11,7 @@ strong technical skills to the working environment.
 - 📖 Learning MERN stack .
 - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
 - 👩‍ Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
-- 👨‍💻 All of my projects are available at My <a href="https://potfolio-selva.netlify.app">Portfolio</a>
+- 👨‍💻 All of my projects are available at My <a href="https://santhosh-portfolio.vercel.app/">Portfolio</a>
 - 📫 How to reach me via Mail hiresanthosh@gmail.com
 - ⚡ I love reading books, reading startup news and watching movies.
 
